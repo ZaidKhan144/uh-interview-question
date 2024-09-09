@@ -1,0 +1,54 @@
+[
+  {
+    "departmentId": "D001",
+    "departmentName": "Engineering"
+  },
+  {
+    "departmentId": "D002",
+    "departmentName": "Project Management"
+  },
+  {
+    "departmentId": "D003",
+    "departmentName": "Design"
+  },
+  {
+    "departmentId": "D004",
+    "departmentName": "Data Science"
+  },
+  {
+    "departmentId": "D005",
+    "departmentName": "Human Resources"
+  },
+  {
+    "departmentId": "D006",
+    "departmentName": "Marketing"
+  },
+  {
+    "departmentId": "D007",
+    "departmentName": "Sales"
+  },
+  {
+    "departmentId": "D008",
+    "departmentName": "IT"
+  },
+  {
+    "departmentId": "D009",
+    "departmentName": "Finance"
+  },
+  {
+    "departmentId": "D010",
+    "departmentName": "Operations"
+  },
+  {
+    "departmentId": "D011",
+    "departmentName": "Customer Service"
+  },
+  {
+    "departmentId": "D012",
+    "departmentName": "Legal"
+  },
+  {
+    "departmentId": "D013",
+    "departmentName": "Product Management"
+  }
+]
