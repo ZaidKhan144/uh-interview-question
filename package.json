@@ -1,0 +1,20 @@
+{
+  "name": "interview-question",
+  "version": "1.0.0",
+  "description": "Univeristy of Houston Interview Question",
+  "scripts": {
+    "build:sidenav": "xslt3 -xsl:client/src/sidenav/format.xsl -s:client/src/sidenav/sidenav.xml -o:client/dist/views/_ssi/sidenav.php -t"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0",
+    "php-express": "^0.0.3",
+    "xslt3": "^2.6.0"
+  },
+  "keywords": [],
+  "author": "University of Houston",
+  "license": "ISC"
+}
